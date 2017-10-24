@@ -1,0 +1,5 @@
+postApi = 'https://xueqiu.com/statuses/search.json'
+replyApi = 'https://xueqiu.com/service/comments'
+stockApi = 'https://xueqiu.com/v4/stock/portfolio/stocks.json'
+stockInfoUrl = 'https://xueqiu.com/v4/stock/quote.json'
+baseUrl = 'https://xueqiu.com/S/'
